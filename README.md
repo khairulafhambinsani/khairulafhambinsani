@@ -6,6 +6,15 @@
 * 💼 Experienced in delivering multi-cloud solutions across AWS, Azure, and Oracle Cloud
 * 💰 Proven track record in FinOps strategies, saving £450,000 in annualized cloud costs
 
+* ---
+
+### 🌐 Cross-Industry Enterprise Experience
+Having led complex cloud and infrastructure initiatives across multiple global sectors:
+* 🛡️ **Defense & Aerospace:** BAE Systems
+* 🛢️ **Energy & Oil & Gas:** ExxonMobil, Aker Solutions
+* 🛒 **Retail & FMCG Supply Chain:** Albert Heijn, Kraft Foods
+* 💻 **Enterprise Technology:** Hewlett-Packard Enterprise (HPE)
+
 ---
 
 ### 🏗️ Core Architecture & Management Expertise
