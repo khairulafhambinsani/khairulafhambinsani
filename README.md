@@ -2,9 +2,9 @@
 
 **Cloud Infrastructure Project Manager & Solution Architect** with over 15 years of technical leadership in managing end-to-end cloud migrations, multi-cloud enterprise platforms, and secure infrastructure lifecycles. 
 
-* 📍 Based in Kuala Lumpur, Malaysia[cite: 1]
-* 💼 Experienced in delivering multi-cloud solutions across AWS, Azure, and Oracle Cloud[cite: 1]
-* 💰 Proven track record in FinOps strategies, saving £450,000 in annualized cloud costs[cite: 1]
+* 📍 Based in Kuala Lumpur, Malaysia
+* 💼 Experienced in delivering multi-cloud solutions across AWS, Azure, and Oracle Cloud
+* 💰 Proven track record in FinOps strategies, saving £450,000 in annualized cloud costs
 
 ---
 
@@ -24,6 +24,6 @@ Check out my public repositories showcasing infrastructure automation and platfo
 ---
 
 ### 🏆 Certifications
-* **Microsoft:** Azure Solutions Architect Expert (AZ-305), Azure Administrator Associate (AZ-104)[cite: 1]
-* **Oracle:** Oracle Cloud Infrastructure Certified Architect Associate[cite: 1]
-* **Methodologies:** Scrum Fundamentals Certified (SFC), ITIL v3, VMware VCP6-DCV[cite: 1]
+* **Microsoft:** Azure Solutions Architect Expert (AZ-305), Azure Administrator Associate (AZ-104)
+* **Oracle:** Oracle Cloud Infrastructure Certified Architect Associate
+* **Methodologies:** Scrum Fundamentals Certified (SFC), ITIL v3, VMware VCP6-DCV
